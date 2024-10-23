@@ -1,1 +1,4 @@
 # Beautiful-Memories
+"Beautiful Memories" is a small project that showcases some of the most stunning photos I captured during my travels through Spain, Italy, and Austria. The idea behind the project is to present these images in a creative and engaging way using expanding cards. Each card features a beautiful memory from one of these countries, and when clicked, the card expands to reveal the full photo, giving viewers a more immersive experience.
+
+The expanding cards concept adds a touch of interactivity, making it more dynamic than a standard photo gallery. It not only highlights the beauty of the photos but also offers an elegant, modern way to display them, perfect for sharing cherished travel moments. Through this project, I aim to combine simplicity in design with the art of photography to create a visually appealing experience that allows people to enjoy the scenery as I saw it.
